@@ -11,7 +11,7 @@
 ### Hi! be welcome, i'm Pietra Andrade
 - 📚 A Computer Science student from IFSC
 - 💻 Currently focused on learning Java and Web Development in general
-- 📩 Email to contact pietraandradedossantos@gmail.com
+- 📩 Email to contact pietraandrade2021@gmail.com
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietra055&show_icons=true&theme=radical"/>
