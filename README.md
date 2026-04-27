@@ -7,25 +7,24 @@
 </h1>
 <p align="center">"I'll never kill myself to save my soul."</p>
 <h1></h1>
+    
+# Oi, eu sou a Pietra 👩‍💻
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietra055/pietra055/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietra055/pietra055/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pietra055/pietra055/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-      
-### Hi! be welcome, i'm Pietra Andrade
-- 📚 A Computer Science student from IFSC
-- 💻 Currently focused on learning Java and Web Development in general
-- 📩 Email to contact pietraandrade2021@gmail.com
+🎓 Estudante de Ciência da Computação  
+💻 Interessada em desenvolvimento e tecnologia  
+🚀 Em constante aprendizado
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietra055&show_icons=true&theme=radical"/>
   <img height="208em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietra055&layout=compact"/>
 
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
+</div>
+
+
 
 ## I'm learning: 
 
@@ -52,6 +51,9 @@
 ## 
 <div align="center">
   <a href="https://www.instagram.com/pi.andrr?igsh=MXV3YXZyeDFnMHJxbA" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
 
