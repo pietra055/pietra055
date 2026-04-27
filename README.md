@@ -7,6 +7,14 @@
 </h1>
 <p align="center">"I'll never kill myself to save my soul."</p>
 <h1></h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietra055/pietra055/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietra055/pietra055/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pietra055/pietra055/output/pacman-contribution-graph.svg">
+</picture>
+
+###
       
 ### Hi! be welcome, i'm Pietra Andrade
 - 📚 A Computer Science student from IFSC
